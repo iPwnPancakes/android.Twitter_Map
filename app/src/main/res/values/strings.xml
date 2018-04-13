@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Twitter Map</string>
+    <string name="title_activity_maps">Twitter Map</string>
+    <string name="name">Enter Handle&#8230;</string>
+    <color name="white">#FFFFFF</color>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">Kt1Ng1DLlfgGg063EmB6JNfwc</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">iy5UfXFh06GEnlixwaFRNEt2qxVtzmsdtlSWIZLKMDunbIvskZ</string>
+    <string name="profile_image">Profile Image</string>
+</resources>
